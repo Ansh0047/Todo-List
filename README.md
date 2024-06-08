@@ -1,2 +1,1 @@
-# The TO-DO list app provides a straightforward interface for users to input, manage, and track their tasks effectively. 
-# Used HTML , CSS and JavaScript
+The ToDo List app is a web-based tool designed to help users efficiently manage their tasks by allowing them to add, edit, and delete tasks, as well as mark them as complete. Users can also filter tasks to view only completed or pending items, with all tasks stored locally in the browser for persistence across sessions. The app is built using HTML for structure, CSS for styling, and JavaScript for interactivity and local storage management.
